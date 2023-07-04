@@ -1,0 +1,1151 @@
+Patterns,Target,Target_class
+The column col1 has unique values.,df['col1'].nunique(),0
+The column col1 has all unique values.,df['col1'].nunique(),0
+"In the column col1, display all unique values.",df['col1'].nunique(),0
+"In the column col1, display all the unique values.",df['col1'].nunique(),0
+The column col1 contains all unique values.,df['col1'].nunique(),0
+The column col1 contains unique values.,df['col1'].nunique(),0
+All unique values are displayed in the column col1.,df['col1'].nunique(),0
+The column col1 contains all the unique values.,df['col1'].nunique(),0
+"In the column col1, show all the unique values.",df['col1'].nunique(),0
+The column col1 has all the unique values.,df['col1'].nunique(),0
+The column col1 should be displayed with all unique values.,df['col1'].nunique(),0
+"In the column col1, display all of the unique values.",df['col1'].nunique(),0
+"In the column col1, show all unique values.",df['col1'].nunique(),0
+All unique values can be displayed in the column col1.,df['col1'].nunique(),0
+The column col1 contains all of the unique values.,df['col1'].nunique(),0
+The column col1 should display all unique values.,df['col1'].nunique(),0
+There are all unique values in the column col1.,df['col1'].nunique(),0
+All unique values should be displayed in the column col1.,df['col1'].nunique(),0
+All unique values can be seen in the column col1.,df['col1'].nunique(),0
+There are unique values in the column col1.,df['col1'].nunique(),0
+All unique values are displayed in the column col1,df['col1'].nunique(),0
+"In the column col1, display the unique values.",df['col1'].nunique(),0
+The column col1 has all unique values displayed.,df['col1'].nunique(),0
+The column col1 should be displayed with all the unique values.,df['col1'].nunique(),0
+The column col 1 has all unique values.,df['col1'].nunique(),0
+The column col1 should display all the unique values.,df['col1'].nunique(),0
+All unique values are displayed in the column col 1.,df['col1'].nunique(),0
+The column col1 is used to display unique values.,df['col1'].nunique(),0
+"In the column col1, show all of the unique values.",df['col1'].nunique(),0
+The column col1 can be used to display all unique values.,df['col1'].nunique(),0
+The column col 1 has unique values.,df['col1'].nunique(),0
+The column col 1 contains all unique values.,df['col1'].nunique(),0
+"In the column col1, list all the unique values.",df['col1'].nunique(),0
+"In the column col1, put all the unique values.",df['col1'].nunique(),0
+The column col1 has all the unique values displayed.,df['col1'].nunique(),0
+"In col1, display all unique values.",df['col1'].nunique(),0
+The column col1 has a display of all unique values.,df['col1'].nunique(),0
+The column col1 displays all unique values.,df['col1'].nunique(),0
+The column col1 should be used to display all unique values.,df['col1'].nunique(),0
+All unique values must be displayed in the column col1.,df['col1'].nunique(),0
+The column col1 has all unique values in it.,df['col1'].nunique(),0
+"In the column col1, display all the values that are unique.",df['col1'].nunique(),0
+The column col 1 contains all the unique values.,df['col1'].nunique(),0
+The column col1 has all of the unique values.,df['col1'].nunique(),0
+"In the column col1, show the unique values.",df['col1'].nunique(),0
+The column col1 can be used to display unique values.,df['col1'].nunique(),0
+The column col1 should contain all unique values.,df['col1'].nunique(),0
+The column col 1 has all the unique values.,df['col1'].nunique(),0
+Use the column col1 to display all the unique values.,df['col1'].nunique(),0
+The column col1 should be displayed with all of the unique values.,df['col1'].nunique(),0
+The column col1 has a list of unique values.,df['col1'].nunique(),0
+The column col1 has all the unique values in it.,df['col1'].nunique(),0
+The column col1 should contain all the unique values.,df['col1'].nunique(),0
+All unique values can be displayed in the column col1,df['col1'].nunique(),0
+All unique values are displayed in the col1 column.,df['col1'].nunique(),0
+"In the column col1, put all unique values.",df['col1'].nunique(),0
+It's a good idea to display all the unique values in the column col1.,df['col1'].nunique(),0
+The column col1 is used to display all unique values.,df['col1'].nunique(),0
+In the column col1 you can display all the unique values.,df['col1'].nunique(),0
+All unique values should be displayed in the column col1,df['col1'].nunique(),0
+Use the column col1 to display all unique values.,df['col1'].nunique(),0
+You can display all the unique values in the column col1.,df['col1'].nunique(),0
+All unique values can be displayed in the column col 1.,df['col1'].nunique(),0
+The column col1 should display all of the unique values.,df['col1'].nunique(),0
+"In the column col1, put all of the unique values.",df['col1'].nunique(),0
+There are all unique values in the column col1,df['col1'].nunique(),0
+All unique values can be found in the column col1.,df['col1'].nunique(),0
+The column col 1 contains unique values.,df['col1'].nunique(),0
+All unique values can be seen in the column col1,df['col1'].nunique(),0
+"In col1, display all the unique values.",df['col1'].nunique(),0
+The column col1 should be displayed with unique values.,df['col1'].nunique(),0
+All unique values can be seen in the col1 column.,df['col1'].nunique(),0
+There are all unique values in the column col 1.,df['col1'].nunique(),0
+There is a column called col1 that displays all unique values.,df['col1'].nunique(),0
+All unique values should be displayed in the column col 1.,df['col1'].nunique(),0
+All unique values are displayed in the column col 1,df['col1'].nunique(),0
+The column col1 displays all the unique values.,df['col1'].nunique(),0
+All unique values can be seen in the column col 1.,df['col1'].nunique(),0
+The column col1 can be used to display all the unique values.,df['col1'].nunique(),0
+The column col1 has all unique values listed.,df['col1'].nunique(),0
+The column col1 should be used to display unique values.,df['col1'].nunique(),0
+Use the column col1 to display unique values.,df['col1'].nunique(),0
+All unique values are displayed in col1.,df['col1'].nunique(),0
+"In the column col1, you can display all the unique values.",df['col1'].nunique(),0
+The column col 1 should be displayed with all unique values.,df['col1'].nunique(),0
+All unique values can be shown in the column col1.,df['col1'].nunique(),0
+"In column col1, display all unique values.",df['col1'].nunique(),0
+"In the column col1, list all of the unique values.",df['col1'].nunique(),0
+All the unique values are displayed in the column col1.,df['col1'].nunique(),0
+The column col1 is where you can display all the unique values.,df['col1'].nunique(),0
+"In the column col1, display all values that are unique.",df['col1'].nunique(),0
+It's a good idea to show all the unique values in the column col1.,df['col1'].nunique(),0
+"In the column col1, display all the values that are unique to you.",df['col1'].nunique(),0
+"In the column col1, displays all unique values.",df['col1'].nunique(),0
+Use the column col1 to display all of the unique values.,df['col1'].nunique(),0
+The column col1 should be used to display all the unique values.,df['col1'].nunique(),0
+"In the column col1, display unique values.",df['col1'].nunique(),0
+In the column col1 you can display all of the unique values.,df['col1'].nunique(),0
+There are unique values in the column col1,df['col1'].nunique(),0
+The column col1 should show all the unique values.,df['col1'].nunique(),0
+All unique values are shown in the column col1.,df['col1'].nunique(),0
+There are unique values in the column col 1.,df['col1'].nunique(),0
+All unique values can be displayed in the col1 column.,df['col1'].nunique(),0
+The column col1 has all the unique values listed.,df['col1'].nunique(),0
+The column col1 should contain all of the unique values.,df['col1'].nunique(),0
+The column col1 can be used to display all of the unique values.,df['col1'].nunique(),0
+All unique values will be displayed in the column col1.,df['col1'].nunique(),0
+All unique values need to be displayed in the column col1.,df['col1'].nunique(),0
+In the column col1 you can display all unique values.,df['col1'].nunique(),0
+There is a column called col1 that has unique values.,df['col1'].nunique(),0
+"In the column col1, make a list of all the unique values.",df['col1'].nunique(),0
+The column col1 should show all unique values.,df['col1'].nunique(),0
+The column col1 has some unique values.,df['col1'].nunique(),0
+The column col 1 contains all of the unique values.,df['col1'].nunique(),0
+The column col1 should be display with all unique values.,df['col1'].nunique(),0
+The column col1 can be displayed with all unique values.,df['col1'].nunique(),0
+All unique values are displayed in the column.,df['col1'].nunique(),0
+All unique values should be shown in the column col1.,df['col1'].nunique(),0
+"In the column col1, show all the values that are unique.",df['col1'].nunique(),0
+The column col1 has values that are unique.,df['col1'].nunique(),0
+It's a good idea to display all unique values in the column col1.,df['col1'].nunique(),0
+It's a good idea to display all the unique values in the column.,df['col1'].nunique(),0
+You can display all unique values in the column col1.,df['col1'].nunique(),0
+The column col1 has all unique values on it.,df['col1'].nunique(),0
+The column col1 has all the values that are unique.,df['col1'].nunique(),0
+"In the column col1, list all unique values.",df['col1'].nunique(),0
+"In the column col1, you can display all of the unique values.",df['col1'].nunique(),0
+"In the column col1, display all of the values that are unique.",df['col1'].nunique(),0
+The column col1 is where you can display all unique values.,df['col1'].nunique(),0
+"In col1, show all the unique values.",df['col1'].nunique(),0
+All of the unique values are displayed in the column col1.,df['col1'].nunique(),0
+The column col1 contains the unique values.,df['col1'].nunique(),0
+In the column col1 display all unique values.,df['col1'].nunique(),0
+You can display all of the unique values in the column col1.,df['col1'].nunique(),0
+You can display all the unique values in col1.,df['col1'].nunique(),0
+In the column col1 display all the unique values.,df['col1'].nunique(),0
+All unique values should be displayed in the col1 column.,df['col1'].nunique(),0
+All unique values must be displayed in the column col1,df['col1'].nunique(),0
+The column col1 has a number of unique values.,df['col1'].nunique(),0
+There is a column called col1 that contains all unique values.,df['col1'].nunique(),0
+"In col1, show all unique values.",df['col1'].nunique(),0
+The column col1 shows all the unique values.,df['col1'].nunique(),0
+The column col1 should be used to display the unique values.,df['col1'].nunique(),0
+It's a good idea to display all the unique values in the column col1,df['col1'].nunique(),0
+It's a good idea to display all of the unique values in the column col1.,df['col1'].nunique(),0
+You can show all the unique values in the column col1.,df['col1'].nunique(),0
+The column col1 contains all the values that are unique.,df['col1'].nunique(),0
+It is a good idea to display all the unique values in the column col1.,df['col1'].nunique(),0
+Show all unique values in the column col1.,df['col1'].nunique(),0
+"In the column col1, you can display all unique values.",df['col1'].nunique(),0
+The column col1 is where you can display all of the unique values.,df['col1'].nunique(),0
+A column called col1 has unique values.,df['col1'].nunique(),0
+There are all unique values in the column.,df['col1'].nunique(),0
+The column col1 holds all unique values.,df['col1'].nunique(),0
+"In the column col1, there are all unique values.",df['col1'].nunique(),0
+You can display all the unique values in the column col1,df['col1'].nunique(),0
+The column col1 is filled with unique values.,df['col1'].nunique(),0
+The column col 1 has all unique values displayed.,df['col1'].nunique(),0
+The column col 1 should display all unique values.,df['col1'].nunique(),0
+It's a good idea to display all the unique values in the column col 1.,df['col1'].nunique(),0
+The column col1 is a place to display unique values.,df['col1'].nunique(),0
+There is a column called col1 that contains unique values.,df['col1'].nunique(),0
+There are all unique values in the col1 column.,df['col1'].nunique(),0
+The column col1 should be used to display all of the unique values.,df['col1'].nunique(),0
+There is a column called col1 which contains all unique values.,df['col1'].nunique(),0
+All unique values must be displayed in the column col 1.,df['col1'].nunique(),0
+The column col1 has a display of unique values.,df['col1'].nunique(),0
+The column col1 should display the unique values.,df['col1'].nunique(),0
+There are all unique values in col1.,df['col1'].nunique(),0
+"In the column col1, display all UNIQUE VALUES.",df['col1'].nunique(),0
+All unique values are listed in the column col1.,df['col1'].nunique(),0
+You can display all the unique values in the column.,df['col1'].nunique(),0
+The column col1 has all the unique values on it.,df['col1'].nunique(),0
+Use the column col1 to display the unique values.,df['col1'].nunique(),0
+You can display all the unique values in the col1 column.,df['col1'].nunique(),0
+There's a column called col1 that displays all unique values.,df['col1'].nunique(),0
+"In the column col1, highlight all the unique values.",df['col1'].nunique(),0
+"In the column col1, put the unique values.",df['col1'].nunique(),0
+Show all the unique values in the column col1.,df['col1'].nunique(),0
+"If you want to show all the unique values, put them in the column col1.",df['col1'].nunique(),0
+It's a good idea to display all the unique values in a column.,df['col1'].nunique(),0
+The column col 1 should be displayed with all the unique values.,df['col1'].nunique(),0
+All unique values are displayed in col1,df['col1'].nunique(),0
+All values are displayed in the column col1.,df['col1'].nunique(),0
+"In col1, display all of the unique values.",df['col1'].nunique(),0
+The column col1 should be display with all the unique values.,df['col1'].nunique(),0
+All unique values can be displayed in the column col 1,df['col1'].nunique(),0
+"In the column col1, make a list of unique values.",df['col1'].nunique(),0
+"In column col1, display all the unique values.",df['col1'].nunique(),0
+There's a column called col1 that has unique values.,df['col1'].nunique(),0
+The column col1 has all of the unique values displayed.,df['col1'].nunique(),0
+All unique values are displayed in the column col.,df['col1'].nunique(),0
+It's a good idea to display all unique values in the column.,df['col1'].nunique(),0
+"In the column col1, write all unique values.",df['col1'].nunique(),0
+"In the column col1, display all of the values that are unique to you.",df['col1'].nunique(),0
+You can display all the values in the column col1.,df['col1'].nunique(),0
+The column col1 is where you can display unique values.,df['col1'].nunique(),0
+There is a column called col1 that has all unique values.,df['col1'].nunique(),0
+The column col 1 is used to display unique values.,df['col1'].nunique(),0
+The column col1 should have all the unique values displayed.,df['col1'].nunique(),0
+The dataframe can be sorted by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+You can sort the dataframe by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+Use col1 to sort the dataframe.,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe is sorted by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+You can sort the dataframe by col1,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe can be sorted by col1,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe can be Sort by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+The data frame can be sorted by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+col1 is used to sort the dataframe.,"df.sort_values(by=['col1'],inplace =True)",1
+You can sort the data frame by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe should be sorted by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe can be sort by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+Sort the dataframe by col1,"df.sort_values(by=['col1'],inplace =True)",1
+Use col1 to sort the data frame.,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe can be sorted by col 1.,"df.sort_values(by=['col1'],inplace =True)",1
+Click on col1 to sort the dataframe.,"df.sort_values(by=['col1'],inplace =True)",1
+The data frame is sorted by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+Sort by col1,"df.sort_values(by=['col1'],inplace =True)",1
+You can sort the dataframe by col 1.,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe is sort by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe can be Sort by col1,"df.sort_values(by=['col1'],inplace =True)",1
+Sort the dataframe by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe is Sorted by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+Sort the data frame by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+Sort the data frame by col1,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe is sorted by col1,"df.sort_values(by=['col1'],inplace =True)",1
+The col1 is used to sort the dataframe.,"df.sort_values(by=['col1'],inplace =True)",1
+col1 is used to sort the data frame.,"df.sort_values(by=['col1'],inplace =True)",1
+There is a way to sort the dataframe by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe can be sort by col1,"df.sort_values(by=['col1'],inplace =True)",1
+Click on col1 to sort the data frame.,"df.sort_values(by=['col1'],inplace =True)",1
+Look at the dataframe by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+You can sort the data frame by col1,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe should be sorted by col1,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe is sorted by col 1.,"df.sort_values(by=['col1'],inplace =True)",1
+The data frame should be sorted by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+One way to sort the dataframe is by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+The data frame can be sorted by col1,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe is Sorted by col1,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe should be sorted by col 1.,"df.sort_values(by=['col1'],inplace =True)",1
+The data frame can be Sort by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+Do you want to sort the dataframe by col1?,"df.sort_values(by=['col1'],inplace =True)",1
+"If you want to sort the dataframe by col1, you have to do that.","df.sort_values(by=['col1'],inplace =True)",1
+The dataframe should be sort by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+You can sort the data frame by col 1.,"df.sort_values(by=['col1'],inplace =True)",1
+The data frame can be sorted by col 1.,"df.sort_values(by=['col1'],inplace =True)",1
+Sort by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe is sort by col1,"df.sort_values(by=['col1'],inplace =True)",1
+"If you want to sort the dataframe by col1, you have to do it.","df.sort_values(by=['col1'],inplace =True)",1
+The dataframe can be Sort by col 1.,"df.sort_values(by=['col1'],inplace =True)",1
+The data frame can be sort by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe can be sort by col 1.,"df.sort_values(by=['col1'],inplace =True)",1
+col 1 is used to sort the dataframe.,"df.sort_values(by=['col1'],inplace =True)",1
+The col1 is used to sort the data frame.,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe can be Sorted by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe can besorted by col1,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe can be sorted by col 1,"df.sort_values(by=['col1'],inplace =True)",1
+You can sort the dataframe by col 1,"df.sort_values(by=['col1'],inplace =True)",1
+It's helpful to sort the dataframe by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+Ignore col1 if you want to sort the dataframe.,"df.sort_values(by=['col1'],inplace =True)",1
+There is a way to sort the dataframe.,"df.sort_values(by=['col1'],inplace =True)",1
+You can sort the dataframe by col.,"df.sort_values(by=['col1'],inplace =True)",1
+The data frame is sort by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+Look at the dataframe by col1,"df.sort_values(by=['col1'],inplace =True)",1
+The data frame is sorted by col1,"df.sort_values(by=['col1'],inplace =True)",1
+Click on the col1 to sort the dataframe.,"df.sort_values(by=['col1'],inplace =True)",1
+"To sort the dataframe, use col1.","df.sort_values(by=['col1'],inplace =True)",1
+The data frame is sorted by col 1.,"df.sort_values(by=['col1'],inplace =True)",1
+You have to sort the dataframe by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+There's a way to sort the dataframe by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe should be Sort by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+There is a way to sort the dataframe by col1,"df.sort_values(by=['col1'],inplace =True)",1
+"Sort by col1, the dataframe.","df.sort_values(by=['col1'],inplace =True)",1
+There is a way to sort the data frame.,"df.sort_values(by=['col1'],inplace =True)",1
+"If you want to sort the data frame by col1, you have to do that.","df.sort_values(by=['col1'],inplace =True)",1
+The dataframe may be sorted by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+"If you want to sort the dataframe by col1, you have to do this.","df.sort_values(by=['col1'],inplace =True)",1
+The dataframe is sort by col 1.,"df.sort_values(by=['col1'],inplace =True)",1
+There is a way to sort the data frame by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+Sort the dataframes by col1,"df.sort_values(by=['col1'],inplace =True)",1
+Look at the data frame by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+"Sort by col1, the data frame.","df.sort_values(by=['col1'],inplace =True)",1
+A way to sort the dataframe is by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+It is necessary to sort the dataframe by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+You can sort the dataframes by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+Use col 1 to sort the dataframe.,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe can besorted by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+"If you want to sort the dataframe by col1, this is the way to do it.","df.sort_values(by=['col1'],inplace =True)",1
+The dataframe can be Sorted by col1,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe needs to be sort by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe is Sorted by col 1.,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe should be sort by col1,"df.sort_values(by=['col1'],inplace =True)",1
+"If you want to sort the data frame by col1, you have to do it.","df.sort_values(by=['col1'],inplace =True)",1
+Do you want to sort the data frame by col1?,"df.sort_values(by=['col1'],inplace =True)",1
+There are two ways to sort the dataframe: by col1 and by Sort the dataframe by col1.,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe can be Sort by col 1,"df.sort_values(by=['col1'],inplace =True)",1
+There are two ways to sort the dataframe.,"df.sort_values(by=['col1'],inplace =True)",1
+The data frame can be Sort by col1,"df.sort_values(by=['col1'],inplace =True)",1
+There is a way to sort the dataframe by col 1.,"df.sort_values(by=['col1'],inplace =True)",1
+There are two ways to sort the data frame.,"df.sort_values(by=['col1'],inplace =True)",1
+The dataframe can be sorted by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The dataframe should be sorted by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The dataframe is sorted by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+You can sort the dataframe by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+Use col1 and col2 to sort the dataframe.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The dataframe can be sorted by col 1 and col 2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+Sort by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The data frame can be sorted by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+Sort by col1 and col2,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The dataframe can be sorted by col1 and col2,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+Sort the dataframe by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+You can sort the data frame by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+Look at the dataframe by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The data frame is sorted by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The data frame should be sorted by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The dataframe should be sorted by col 1 and col 2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+Use col1 and col2 to sort the data frame.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+You can sort the dataframe by col 1 and col 2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+You can sort the dataframe by col1 and col2,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The dataframe should be sorted by col1 and col2,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+Sort the data frame by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The dataframe is sorted by col 1 and col 2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The dataframe can besorted by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The dataframe is sorted by col1 and col2,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The dataframe can be sorted by col 1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+Sort the dataframe by col1 and col2,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+Click on col1 and col2 to sort the dataframe.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+Pick out the dataframe by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The dataframes are col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+You can sort by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The dataframes are sorted by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The dataframe is Sorted by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The dataframes should be sorted by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The dataframe is broken down by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+Use col1 and col2 to sort the data.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The dataframe can be Sorted by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+You can sort the dataframes by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The dataframe was sorted by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+You can sort the data frame by col 1 and col 2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The dataframe should be sorted by col 1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The data frame can be sorted by col 1 and col 2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+Sort the dataframes by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+Click on col1 and col2 to sort the data frame.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The dataframe must be sorted by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+Sort the dataframe by col 1 and col 2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The dataframe issorted by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+Look at the data frame by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+You can sort the dataframe by col 1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The dataframe can be Sort by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+The dataframe can be sort by col1 and col2.,"df.sort_values(by=['col1', 'col2'],inplace =True)",2
+"The dataframe can be sorted by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"You can sort the dataframe by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"The dataframe is sorted by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"The dataframe should be sorted by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"Sort the dataframe by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"Sort by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"Sort by col1, col2 and col3","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"Sort the data frame by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"You can sort the data frame by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"The dataframes are col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"Look at the dataframe by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"The dataframe can be sorted by col1, col2 and col3","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"You can sort the dataframe by col1, col2 and col3","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"The data frame can be sorted by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"The dataframe is broken down by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"Sort the dataframe by col1, col2 and col3","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"Use col1, col2 and col3 to sort the dataframe.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"Pick out the dataframe by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"The data frame is sorted by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"Pick the dataframe by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"The dataframe can be sorted by col1, col2, and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"The data frame should be sorted by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"Sort by col1, col2, and col3","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"The dataframe should be sorted by col1, col2 and col3","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"You can sort the dataframe by col1, col2, and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"Sort the dataframes by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"The dataframe was sorted by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"You can sort by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"The dataframe is divided into col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"The dataframe is sorted by col1, col2 and col3","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"You can sort the dataframes by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"The dataframe can besorted by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"Use col1, col2 and col3 to sort the data frame.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"The dataframe is broken down into col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"Sort the data frame by col1, col2 and col3","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"Sort by col1, col2, and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"The dataframe can be Sorted by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"Refer to the dataframe by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"Look at the data frame by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"Sort the dataframe by col1, col2, and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"The dataframes are col1, col2 and col3","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"Find the dataframe by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"Look at the dataframe by col1, col2 and col3","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"You can sort the data frame by col1, col2 and col3","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"The dataframe should be sorted by col1, col2, and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"Group the dataframe by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"You can sort by col1, col2 and col3","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"The dataframe is sorted by col1, col2, and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"Pick out the data frame by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+"You have to sort the dataframe by col1, col2 and col3.","df.sort_values(by=['col1', 'col2', 'col3'],inplace =True)",3
+Drop the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column should be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column needs to be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+Drop the col1 column,"df.drop(columns = 'col1',inplace = True)",4
+Drop the col 1 column.,"df.drop(columns = 'col1',inplace = True)",4
+The col 1 column should be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column can be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+It's time to drop the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column has to be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+The col 1 column needs to be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column must be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column might be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column could be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+You should drop the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column shouldn't be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column may be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column should be removed.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column ought to be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+It's a good idea to drop the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+There is a col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column is to be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+Drop the col2 column.,"df.drop(columns = 'col1',inplace = True)",4
+"Drop the col1 column, that's right.","df.drop(columns = 'col1',inplace = True)",4
+Drop the column.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column should be dropped,"df.drop(columns = 'col1',inplace = True)",4
+Get rid of the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column needs to be dropped,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column needs to be removed.,"df.drop(columns = 'col1',inplace = True)",4
+Remove the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 columns should be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+Drop the col 1 column,"df.drop(columns = 'col1',inplace = True)",4
+"If you want to, drop the col1 column.","df.drop(columns = 'col1',inplace = True)",4
+The col1 column is dropped.,"df.drop(columns = 'col1',inplace = True)",4
+It's time to drop the col 1 column.,"df.drop(columns = 'col1',inplace = True)",4
+You can drop the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column need to be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column would be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+It would be better to drop the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+It is time to drop the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+Don't add the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+There's a col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+The col 1 column can be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+The col 1 column has to be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+The col1column should be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column should not be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+Go ahead and drop the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+A column called col1 should be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+It's best to drop the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+"If you want to drop the col1 column, do it now.","df.drop(columns = 'col1',inplace = True)",4
+It is a good idea to drop the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+They should drop the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+"Drop the col1 column, it's in the col1 column.","df.drop(columns = 'col1',inplace = True)",4
+The column called col1 should be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+Do you want to drop the col1 column?,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column is expendable.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column is not to be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+Drop the col1 columns.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column may need to be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+It was time to drop the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column shouldn't be there.,"df.drop(columns = 'col1',inplace = True)",4
+"If you want to drop the col1 column, please do it.","df.drop(columns = 'col1',inplace = True)",4
+The col1 column is going to be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+A column called the col1 should be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+Don't use the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+"If you want to drop the col1 column, do it.","df.drop(columns = 'col1',inplace = True)",4
+The col-1 column should be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+"Drop the col1 column, that's what I'm going to do.","df.drop(columns = 'col1',inplace = True)",4
+The col2 column should be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+Don't drop the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+The col 1 column must be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+It's a good idea to drop the col 1 column.,"df.drop(columns = 'col1',inplace = True)",4
+"The col1, the column, should be dropped.","df.drop(columns = 'col1',inplace = True)",4
+The col1 Column should be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+"If you want to drop the col1 column, please do so.","df.drop(columns = 'col1',inplace = True)",4
+Allow the col1 column to be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column may have to be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+The column col1 should be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+"Drop the col1 column, that's what we're going to do.","df.drop(columns = 'col1',inplace = True)",4
+The col1 column has been dropped.,"df.drop(columns = 'col1',inplace = True)",4
+You should drop the col 1 column.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column should now be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+The col 1 column shouldn't be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column will be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+Do not add the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+Let's drop the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+I would like to drop the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+Don't include the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+"Drop the col1 column, that's it.","df.drop(columns = 'col1',inplace = True)",4
+Drop the col1; it's in the column.,"df.drop(columns = 'col1',inplace = True)",4
+You need to drop the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column doesn't make sense.,"df.drop(columns = 'col1',inplace = True)",4
+Drop the col1 column!,"df.drop(columns = 'col1',inplace = True)",4
+The col 1 column might be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column is something that should be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+"Drop the col1 column, please.","df.drop(columns = 'col1',inplace = True)",4
+The col 1 column could be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+You have to drop the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+"In the col1 column, drop it.","df.drop(columns = 'col1',inplace = True)",4
+It's time to drop the col1 column,"df.drop(columns = 'col1',inplace = True)",4
+The col 1 column may be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+"If you want to drop the col1 column, do so.","df.drop(columns = 'col1',inplace = True)",4
+The col1 column is needed to drop it.,"df.drop(columns = 'col1',inplace = True)",4
+The col 1 column should be removed.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column is unnecessary.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column is in danger of being dropped.,"df.drop(columns = 'col1',inplace = True)",4
+The col-1 column needs to be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column isn't worth dropping.,"df.drop(columns = 'col1',inplace = True)",4
+"The col1, a column, should be dropped.","df.drop(columns = 'col1',inplace = True)",4
+"Drop the col 1 column, that's right.","df.drop(columns = 'col1',inplace = True)",4
+The col1 column is the reason to drop it.,"df.drop(columns = 'col1',inplace = True)",4
+The col 1 column ought to be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+"If you want to drop the col1 column, it's best to do it now.","df.drop(columns = 'col1',inplace = True)",4
+"If you want to drop the col1 column, you have to.","df.drop(columns = 'col1',inplace = True)",4
+"If you want to drop the col1 column, you have to do it.","df.drop(columns = 'col1',inplace = True)",4
+Do not drop the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+"Drop the col1 column, it's in there.","df.drop(columns = 'col1',inplace = True)",4
+The col1 column should be taken down.,"df.drop(columns = 'col1',inplace = True)",4
+Drop the col1 column completely.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column is a good place to drop it.,"df.drop(columns = 'col1',inplace = True)",4
+We should drop the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+Cut the col1 column in half.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column shouldn't be moved.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column is something to be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+Drop the col-1 column.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column is being dropped.,"df.drop(columns = 'col1',inplace = True)",4
+The col1column needs to be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+There is a col 1 column.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column is not worth dropping.,"df.drop(columns = 'col1',inplace = True)",4
+Don't put the col1 column in it's place.,"df.drop(columns = 'col1',inplace = True)",4
+"Drop the col1 column, that's what it should be.","df.drop(columns = 'col1',inplace = True)",4
+"If you want to, drop the col 1 column.","df.drop(columns = 'col1',inplace = True)",4
+"Drop the col1 column, it is in the col1 column.","df.drop(columns = 'col1',inplace = True)",4
+"Drop the col1 column, it's not worth it.","df.drop(columns = 'col1',inplace = True)",4
+The col1 column is should be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+Drop the col1 column now.,"df.drop(columns = 'col1',inplace = True)",4
+You should remove the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+"If you want to drop the col1 column, you should do it now.","df.drop(columns = 'col1',inplace = True)",4
+"If you want to drop the col1 column, you should.","df.drop(columns = 'col1',inplace = True)",4
+The col1 column is something to drop.,"df.drop(columns = 'col1',inplace = True)",4
+"If you want to drop the col1 column, you should do it.","df.drop(columns = 'col1',inplace = True)",4
+The col 1 column needs to be removed.,"df.drop(columns = 'col1',inplace = True)",4
+Drop the col1.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column should be dumped.,"df.drop(columns = 'col1',inplace = True)",4
+Take the col1 column out.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column should be drop.,"df.drop(columns = 'col1',inplace = True)",4
+Dump the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column is dropping.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column shouldn't be changed.,"df.drop(columns = 'col1',inplace = True)",4
+The column should be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+"Drop the col1 column, that's all.","df.drop(columns = 'col1',inplace = True)",4
+"If you want to drop the col1 column, please do.","df.drop(columns = 'col1',inplace = True)",4
+Bring the col1 column down.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column is necessary to drop it.,"df.drop(columns = 'col1',inplace = True)",4
+"Drop the col1 column, that's what.","df.drop(columns = 'col1',inplace = True)",4
+Drop the col one column.,"df.drop(columns = 'col1',inplace = True)",4
+The col 1 columns should be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+There's a column called col1 that should be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+It would be better to drop the col 1 column.,"df.drop(columns = 'col1',inplace = True)",4
+"Drop the col1 column, that's what I'm about to do.","df.drop(columns = 'col1',inplace = True)",4
+Take the col1 column off the table.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column is a problem.,"df.drop(columns = 'col1',inplace = True)",4
+Drop the col1column.,"df.drop(columns = 'col1',inplace = True)",4
+"Drop the col1 column, that's what we're doing.","df.drop(columns = 'col1',inplace = True)",4
+Let the col1 column go.,"df.drop(columns = 'col1',inplace = True)",4
+"Drop the col1 column, it's in the col1 column","df.drop(columns = 'col1',inplace = True)",4
+There is a column called col1 that should be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+Do not include the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+"Drop the col1 column, that's what I want to do.","df.drop(columns = 'col1',inplace = True)",4
+The col1 column cannot be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+"Drop the col1 column, that's for sure.","df.drop(columns = 'col1',inplace = True)",4
+"If you want to drop the col 1 column, do it now.","df.drop(columns = 'col1',inplace = True)",4
+"Drop the col1 column, that's correct.","df.drop(columns = 'col1',inplace = True)",4
+You must drop the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+A col1 column should be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+Drop the col3 column.,"df.drop(columns = 'col1',inplace = True)",4
+"If you drop the col1 column, you'll get rid of it.","df.drop(columns = 'col1',inplace = True)",4
+The col1 column isn't needed.,"df.drop(columns = 'col1',inplace = True)",4
+Drop the col1 Column.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column needs to be taken down.,"df.drop(columns = 'col1',inplace = True)",4
+"Drop the col1 column, that's what it's supposed to be.","df.drop(columns = 'col1',inplace = True)",4
+It is time to drop the col 1 column.,"df.drop(columns = 'col1',inplace = True)",4
+Drop the column called col1.,"df.drop(columns = 'col1',inplace = True)",4
+Get rid of the col 1 column.,"df.drop(columns = 'col1',inplace = True)",4
+This column should be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+"If you want to drop the col1 column, you should do so.","df.drop(columns = 'col1',inplace = True)",4
+The col1 column was dropped.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column shouldn't be used.,"df.drop(columns = 'col1',inplace = True)",4
+"Drop the col1, it's in the column.","df.drop(columns = 'col1',inplace = True)",4
+The col1 should be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+"If you want to drop the col1 column, please.","df.drop(columns = 'col1',inplace = True)",4
+The col1 column has to be dropped,"df.drop(columns = 'col1',inplace = True)",4
+It is a good idea to drop the col 1 column.,"df.drop(columns = 'col1',inplace = True)",4
+The col1 column doesn't need to be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+Fix the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+The col 1 column needs to be dropped,"df.drop(columns = 'col1',inplace = True)",4
+Consider dropping the col1 column.,"df.drop(columns = 'col1',inplace = True)",4
+"If you want to drop the col1 column, drop it.","df.drop(columns = 'col1',inplace = True)",4
+The col 1 column should be dropped,"df.drop(columns = 'col1',inplace = True)",4
+Drop the col1 column if you must.,"df.drop(columns = 'col1',inplace = True)",4
+There's a column called col1 that needs to be dropped.,"df.drop(columns = 'col1',inplace = True)",4
+Show me a list of cols.,"new_df=df.loc[:, ['col1','col2']]",5
+Do you have a list of col1 and col2?,"new_df=df.loc[:, ['col1','col2']]",5
+I would like to see a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I'd like to see a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I want to see a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I need a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I want to know a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I want a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I'd like to see a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Do you have a list of col 1 and col 2?,"new_df=df.loc[:, ['col1','col2']]",5
+I would like to see a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Do you have a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I'm interested in seeing a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I need a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Do you have a list of cols 1 and 2?,"new_df=df.loc[:, ['col1','col2']]",5
+I want to see a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I'd like to know a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I would like to know a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Show me the names of the two cols.,"new_df=df.loc[:, ['col1','col2']]",5
+Let me know a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Tell me a list of cols.,"new_df=df.loc[:, ['col1','col2']]",5
+I want a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I want to know a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I'm looking for a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Give me a list of cols.,"new_df=df.loc[:, ['col1','col2']]",5
+Let me know a list of cols 1 and 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I'd like to see a list of col1 and col2,"new_df=df.loc[:, ['col1','col2']]",5
+Let me know the names of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I would like to see a list of col1 and col2,"new_df=df.loc[:, ['col1','col2']]",5
+Let me know a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Show me the names of cols 1 and 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Come up with a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Show me the list of cols.,"new_df=df.loc[:, ['col1','col2']]",5
+I'm interested in seeing a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+There is a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I'd like to know a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Show me a list of the two cols.,"new_df=df.loc[:, ['col1','col2']]",5
+I need a list of cols 1 and 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I would appreciate it if you could give me a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I would like a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Give me a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I would like to know a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Let me know a list of cols.,"new_df=df.loc[:, ['col1','col2']]",5
+I'd love to see a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I'm looking for a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I would love to see a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Give me a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I'd like to see a list of cols 1 and 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I would like to see a list of cols 1 and 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Show me the names of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Come up with a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Let me know the names of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I want to see a list of col1 and col2,"new_df=df.loc[:, ['col1','col2']]",5
+I'd like a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I would appreciate it if you could give me a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I would appreciate a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I would like to see a list of col 1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Let me know the list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I'd like to see a list of col1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I need a list of col1 and col2,"new_df=df.loc[:, ['col1','col2']]",5
+Send me a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Do you have a list of col 1 and col2?,"new_df=df.loc[:, ['col1','col2']]",5
+I need to see a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I would like to see a list of col1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Show me a list of cols 1 and 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Give me a list of cols 1 and 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I would be interested in seeing a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I'd like to see a list of col 1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Show me the names of both cols.,"new_df=df.loc[:, ['col1','col2']]",5
+I want to know a list of col1 and col2,"new_df=df.loc[:, ['col1','col2']]",5
+I would like a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I'm interested in seeing a list of col1 and col2,"new_df=df.loc[:, ['col1','col2']]",5
+Let me know the list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Send me a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+You should give me a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I would appreciate seeing a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I'd love to see a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Show me the names of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Is there a list of col1 and col2?,"new_df=df.loc[:, ['col1','col2']]",5
+Do you have a list of col1 and col 2?,"new_df=df.loc[:, ['col1','col2']]",5
+Tell me a list of cols 1 and 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Let me know the list of cols 1 and 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I would be happy to see a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I want a list of cols 1 and 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I want to see a list of cols 1 and 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I want to know a list of cols 1 and 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Tell me the names of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Please give me a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+There is a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I want a list of col1 and col2,"new_df=df.loc[:, ['col1','col2']]",5
+I would love to see a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I want to see a list of col 1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Provide me with a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Send me a list of cols.,"new_df=df.loc[:, ['col1','col2']]",5
+I need to know a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Do you have a list of col1 and col2,"new_df=df.loc[:, ['col1','col2']]",5
+Let me know a list of col1 and col2,"new_df=df.loc[:, ['col1','col2']]",5
+Please show me a list of cols.,"new_df=df.loc[:, ['col1','col2']]",5
+Tell me a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I would appreciate a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I'd like a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Tell me a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Show me the names of both col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Let me know what col1 and col2 are.,"new_df=df.loc[:, ['col1','col2']]",5
+I'd like to know a list of col1 and col2,"new_df=df.loc[:, ['col1','col2']]",5
+Check out the list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Let me know if you have a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I'm interested in a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I want to see a list of col1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I would like to know a list of col1 and col2,"new_df=df.loc[:, ['col1','col2']]",5
+Tell me the names of the two cols.,"new_df=df.loc[:, ['col1','col2']]",5
+Look at a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Please tell me a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Show me the names of the two things.,"new_df=df.loc[:, ['col1','col2']]",5
+Do you have a list of cols?,"new_df=df.loc[:, ['col1','col2']]",5
+Show me a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+A list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Provide me with a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Show me a list of cols,"new_df=df.loc[:, ['col1','col2']]",5
+You should give me a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I would appreciate having a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I want to know a list of col 1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I'm interested in the list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Show me a list of the cols.,"new_df=df.loc[:, ['col1','col2']]",5
+Come up with a list of col1 and col2,"new_df=df.loc[:, ['col1','col2']]",5
+I need to see a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I'm looking for a list of col1 and col2,"new_df=df.loc[:, ['col1','col2']]",5
+Provide me with a list of cols.,"new_df=df.loc[:, ['col1','col2']]",5
+I would appreciate it if you could give me a list of col1 and col2,"new_df=df.loc[:, ['col1','col2']]",5
+I want to know a list of col1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+What are the names of col1 and col2?,"new_df=df.loc[:, ['col1','col2']]",5
+I would be interested in seeing a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Show me a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Send me a list of cols 1 and 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Tell me the names of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Please give me a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Let me know the names of cols 1 and 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Let me know the names of col1 and col2,"new_df=df.loc[:, ['col1','col2']]",5
+I would be happy to see a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+You can show me a list of cols.,"new_df=df.loc[:, ['col1','col2']]",5
+I am interested in seeing a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Show me what col1 and col2 are.,"new_df=df.loc[:, ['col1','col2']]",5
+Let me know if you have a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Please tell me a list of cols 1 and 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Please tell me a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+The list of col1 and col2 should be shown to me.,"new_df=df.loc[:, ['col1','col2']]",5
+Check out a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Let me know a list of cols 1.,"new_df=df.loc[:, ['col1','col2']]",5
+I'd like to know a list of cols 1 and 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I need a list of col 1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Do you know a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Come up with a list of cols 1 and 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I would appreciate seeing a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I need a list of col1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Tell me the names of cols 1 and 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Get me a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Tell me what col1 and col2 are.,"new_df=df.loc[:, ['col1','col2']]",5
+Do you have a list of col 1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I'm interested in seeing a list of col1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Please show me a list of cols 1 and 2.,"new_df=df.loc[:, ['col1','col2']]",5
+The list of col1 and col2 should be given to me.,"new_df=df.loc[:, ['col1','col2']]",5
+You can give me a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I would like to know a list of cols 1 and 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Give me a list of col1 and col2,"new_df=df.loc[:, ['col1','col2']]",5
+Do you know a list of col1 and col2?,"new_df=df.loc[:, ['col1','col2']]",5
+Provide me with a list of cols 1 and 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I need to know a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Is there a list of col 1 and col 2?,"new_df=df.loc[:, ['col1','col2']]",5
+I'd like to know a list of col1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I want a list of col1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Please tell me a list of cols.,"new_df=df.loc[:, ['col1','col2']]",5
+I'd like to see a list of cols.,"new_df=df.loc[:, ['col1','col2']]",5
+Is there a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Tell me the list of cols.,"new_df=df.loc[:, ['col1','col2']]",5
+A list of cols 1 and 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I want a list of col 1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Provide me a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I am looking for a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Show me the names of both col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Show me a list of both cols.,"new_df=df.loc[:, ['col1','col2']]",5
+Make a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I'm interested in a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+There is a list of col1 and col2,"new_df=df.loc[:, ['col1','col2']]",5
+Give me a list of the two cols.,"new_df=df.loc[:, ['col1','col2']]",5
+Let me see a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Do you have a list of cols1 and cols2?,"new_df=df.loc[:, ['col1','col2']]",5
+I'd appreciate a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I would like to know a list of col1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I would like to know a list of col 1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Let me know the names of the two cols.,"new_df=df.loc[:, ['col1','col2']]",5
+Get me a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Please show me a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I'd love to see a list of col1 and col2,"new_df=df.loc[:, ['col1','col2']]",5
+Please give me a list of cols 1 and 2.,"new_df=df.loc[:, ['col1','col2']]",5
+I'm interested in seeing a list of col 1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+Allow me to see a list of col1 and col2.,"new_df=df.loc[:, ['col1','col2']]",5
+I would like to see a list of cols.,"new_df=df.loc[:, ['col1','col2']]",5
+You should show me a list of cols.,"new_df=df.loc[:, ['col1','col2']]",5
+I would appreciate it if you could give me a list of cols 1 and 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Look at a list of col 1 and col 2.,"new_df=df.loc[:, ['col1','col2']]",5
+Show me the number of values.,df['col1'].value_counts(),6
+I want to know the number of values in col1.,df['col1'].value_counts(),6
+Let me know the number of values.,df['col1'].value_counts(),6
+Tell me the number of values.,df['col1'].value_counts(),6
+Show me the number of values,df['col1'].value_counts(),6
+Do you know the number of values in col1?,df['col1'].value_counts(),6
+Show me the number of values in col1.,df['col1'].value_counts(),6
+I would like to know the number of values in col1.,df['col1'].value_counts(),6
+I'd like to know the number of values in col1.,df['col1'].value_counts(),6
+Show me how many values are in col1.,df['col1'].value_counts(),6
+I want to know the number of values in col 1.,df['col1'].value_counts(),6
+I need to know the number of values in col1.,df['col1'].value_counts(),6
+Show me how many values there are.,df['col1'].value_counts(),6
+Let me know the number of values in col1.,df['col1'].value_counts(),6
+Show me the total number of values.,df['col1'].value_counts(),6
+I want to know the number of values in col1,df['col1'].value_counts(),6
+Show me the number of values in col1,df['col1'].value_counts(),6
+The number of values in col1 should be shown to me.,df['col1'].value_counts(),6
+I want to know the number of values.,df['col1'].value_counts(),6
+Show me how many values are in col1,df['col1'].value_counts(),6
+Do you have the number of values in col1?,df['col1'].value_counts(),6
+Please tell me the number of values.,df['col1'].value_counts(),6
+I would like to know the number of values in col 1.,df['col1'].value_counts(),6
+I'd like to know the number of values in col 1.,df['col1'].value_counts(),6
+Give me the number of values.,df['col1'].value_counts(),6
+"In col1, show me the number of values.",df['col1'].value_counts(),6
+Show me how many values are in col 1.,df['col1'].value_counts(),6
+I want the number of values in col1 to be shown to me.,df['col1'].value_counts(),6
+I would appreciate it if you could show me the number of values.,df['col1'].value_counts(),6
+Do you know the number of values in col 1?,df['col1'].value_counts(),6
+I need to know the number of values in col 1.,df['col1'].value_counts(),6
+I'm interested in the number of values in col1.,df['col1'].value_counts(),6
+Show me the number of values in col 1.,df['col1'].value_counts(),6
+I'd like to see the number of values in col1.,df['col1'].value_counts(),6
+Show me the number of values in the book.,df['col1'].value_counts(),6
+Let me know the number of values in col1,df['col1'].value_counts(),6
+Show me how many values there are in col1.,df['col1'].value_counts(),6
+I need to know the number of values in col1,df['col1'].value_counts(),6
+I would like to see the number of values in col1.,df['col1'].value_counts(),6
+I would like to know the number of values in col1,df['col1'].value_counts(),6
+Show me the values in col1.,df['col1'].value_counts(),6
+I'd like to know the number of values in col1,df['col1'].value_counts(),6
+I would appreciate it if you could tell me the number of values.,df['col1'].value_counts(),6
+Tell me how many values are in col1.,df['col1'].value_counts(),6
+I want to see the number of values in col1.,df['col1'].value_counts(),6
+Tell me the number of values in col1.,df['col1'].value_counts(),6
+I would appreciate it if you could tell me the number of values in col1.,df['col1'].value_counts(),6
+Let me know the number of values in col 1.,df['col1'].value_counts(),6
+Let me know how many values are in col1.,df['col1'].value_counts(),6
+I'm interested in the number of values.,df['col1'].value_counts(),6
+I would appreciate if you could show me the number of values.,df['col1'].value_counts(),6
+Do you know the number of values in col1,df['col1'].value_counts(),6
+Please show me the number of values.,df['col1'].value_counts(),6
+Show me the number of values in col 1,df['col1'].value_counts(),6
+I would appreciate if you could tell me the number of values.,df['col1'].value_counts(),6
+I want to know the number of values in col 1,df['col1'].value_counts(),6
+I would appreciate it if you showed me the number of values.,df['col1'].value_counts(),6
+I would appreciate it if you showed me the number of values in col1.,df['col1'].value_counts(),6
+Take the number of values in col1 and show me.,df['col1'].value_counts(),6
+The number of values in col1 needs to be shown to me.,df['col1'].value_counts(),6
+I would appreciate if you could tell me the number of values in col1.,df['col1'].value_counts(),6
+You have to show me the number of values.,df['col1'].value_counts(),6
+Don't tell me the number of values.,df['col1'].value_counts(),6
+It's time to show me the number of values.,df['col1'].value_counts(),6
+I would appreciate it if you could show me the number of values in col1.,df['col1'].value_counts(),6
+Please tell me the number of values in col1.,df['col1'].value_counts(),6
+Show me how many values are in col 1,df['col1'].value_counts(),6
+Provide me with the number of values.,df['col1'].value_counts(),6
+I'm looking for the number of values in col1.,df['col1'].value_counts(),6
+Tell me how many values are in col1,df['col1'].value_counts(),6
+I need the number of values in col1 to be shown to me.,df['col1'].value_counts(),6
+I want the number of values in col 1 to be shown to me.,df['col1'].value_counts(),6
+Show me the values.,df['col1'].value_counts(),6
+Do you have the number of values in col 1?,df['col1'].value_counts(),6
+I want to know the number of values in col.,df['col1'].value_counts(),6
+Go ahead and tell me the number of values.,df['col1'].value_counts(),6
+I would like to see the number of values.,df['col1'].value_counts(),6
+The number of values in col 1 should be shown to me.,df['col1'].value_counts(),6
+You should show me the number of values.,df['col1'].value_counts(),6
+You can show me the number of values.,df['col1'].value_counts(),6
+I'd like to see the number of values.,df['col1'].value_counts(),6
+Show me the numbers in col1.,df['col1'].value_counts(),6
+Let me know how many values are in col1,df['col1'].value_counts(),6
+I would like to know the number of values.,df['col1'].value_counts(),6
+I would appreciate if you showed me the number of values.,df['col1'].value_counts(),6
+Show me the values in col1,df['col1'].value_counts(),6
+I would like the number of values in col1 to be shown to me.,df['col1'].value_counts(),6
+I want to see the number of values.,df['col1'].value_counts(),6
+Is there a number of values in col1?,df['col1'].value_counts(),6
+Give me the number of values in col1.,df['col1'].value_counts(),6
+Show me how many values col1 has.,df['col1'].value_counts(),6
+Inform me of the number of values.,df['col1'].value_counts(),6
+I'm interested in the number of values in col 1.,df['col1'].value_counts(),6
+Come up with the number of values in col1.,df['col1'].value_counts(),6
+I'd like to see the number of values in col 1.,df['col1'].value_counts(),6
+Show me the number of values that are in col1.,df['col1'].value_counts(),6
+Let me know the number of values,df['col1'].value_counts(),6
+I'm curious about the number of values in col1.,df['col1'].value_counts(),6
+"In col1, tell me the number of values.",df['col1'].value_counts(),6
+I need to see the number of values in col1.,df['col1'].value_counts(),6
+I would appreciate it if you could tell me the number of values in col 1.,df['col1'].value_counts(),6
+I want you to show me the number of values.,df['col1'].value_counts(),6
+I'd love to know the number of values in col1.,df['col1'].value_counts(),6
+I would appreciate if you showed me the number of values in col1.,df['col1'].value_counts(),6
+I would like to know the number of values in col 1,df['col1'].value_counts(),6
+Tell me the number of values in col1,df['col1'].value_counts(),6
+Let me know how many values are in col 1.,df['col1'].value_counts(),6
+I'd like to know the number of values in col 1,df['col1'].value_counts(),6
+Show me the number of col1 values.,df['col1'].value_counts(),6
+I'd like to know the number of values.,df['col1'].value_counts(),6
+Tell me how many values are in col 1.,df['col1'].value_counts(),6
+I'm interested in the number of values in col1,df['col1'].value_counts(),6
+I would like to see the number of values in col 1.,df['col1'].value_counts(),6
+Let me know the number of values in col 1,df['col1'].value_counts(),6
+You have to tell me the number of values.,df['col1'].value_counts(),6
+Do you have a number of values in col1?,df['col1'].value_counts(),6
+I need to know the number of values in col 1,df['col1'].value_counts(),6
+Show me how many values there are in col 1.,df['col1'].value_counts(),6
+I would appreciate if you could show me the number of values in col1.,df['col1'].value_counts(),6
+Send me the number of values.,df['col1'].value_counts(),6
+I need to know the number of values.,df['col1'].value_counts(),6
+I'd like to see the number of values in col1,df['col1'].value_counts(),6
+Let me know how many values there are in col1.,df['col1'].value_counts(),6
+Show me the numbers of the values.,df['col1'].value_counts(),6
+I want to know how many values are in col1.,df['col1'].value_counts(),6
+I would love to know the number of values in col1.,df['col1'].value_counts(),6
+Go ahead and show me the number of values.,df['col1'].value_counts(),6
+Do you know the number of values?,df['col1'].value_counts(),6
+Let me know how many values in col1 there are.,df['col1'].value_counts(),6
+I want to see the number of values in col 1.,df['col1'].value_counts(),6
+I want to know how many values in col1 there are.,df['col1'].value_counts(),6
+Show me how many values there are in col1,df['col1'].value_counts(),6
+I would appreciate it if you could tell me the number of values in col1,df['col1'].value_counts(),6
+I need you to show me the number of values.,df['col1'].value_counts(),6
+You should tell me the number of values.,df['col1'].value_counts(),6
+Show me how many values in col1 there are.,df['col1'].value_counts(),6
+I would appreciate it if you showed me the number of values in col 1.,df['col1'].value_counts(),6
+Tell me how many values there are in col1.,df['col1'].value_counts(),6
+Do you know the number of values in col?,df['col1'].value_counts(),6
+I want to know the number of values in col-1.,df['col1'].value_counts(),6
+Show the number of values.,df['col1'].value_counts(),6
+Show me the total number of values in col1.,df['col1'].value_counts(),6
+I need the number of values in col1 to show me.,df['col1'].value_counts(),6
+"If you show me the number of values, I'll give it to you.",df['col1'].value_counts(),6
+"If you show me the number of values, I'll let you know.",df['col1'].value_counts(),6
+Show me the number of values for col1.,df['col1'].value_counts(),6
+I'd love to see the number of values in col1.,df['col1'].value_counts(),6
+I would like to see the number of values in col1,df['col1'].value_counts(),6
+Show me the number of values in col.,df['col1'].value_counts(),6
+I would appreciate if you could tell me the number of values in col 1.,df['col1'].value_counts(),6
+I need the number of values in col1.,df['col1'].value_counts(),6
+I want you to tell me the number of values.,df['col1'].value_counts(),6
+You can tell me the number of values.,df['col1'].value_counts(),6
+Drop me a line with the number of values.,df['col1'].value_counts(),6
+Show me how many col1 values there are.,df['col1'].value_counts(),6
+Tell me the number of values in col 1.,df['col1'].value_counts(),6
+I would appreciate it if you could show me the number of values in col 1.,df['col1'].value_counts(),6
+Let's see the number of values in col1.,df['col1'].value_counts(),6
+I'd like to know the number of values in col.,df['col1'].value_counts(),6
+Do you know the number of values in col1.,df['col1'].value_counts(),6
+I would like to know the number of values in col.,df['col1'].value_counts(),6
+I need the number of values in col1,df['col1'].value_counts(),6
+Take the number of values and show me.,df['col1'].value_counts(),6
+Tell me the number of values,df['col1'].value_counts(),6
+Have you seen the number of values in col1?,df['col1'].value_counts(),6
+You need to show me the number of values.,df['col1'].value_counts(),6
+Show me the numbers of values.,df['col1'].value_counts(),6
+I want to see the number of values in col1,df['col1'].value_counts(),6
+Give me the number of values in col1,df['col1'].value_counts(),6
+Provide me with the number of values in col1.,df['col1'].value_counts(),6
+Show me the number of values in chronological order.,df['col1'].value_counts(),6
+Tell me how many values there are.,df['col1'].value_counts(),6
+Show me the values in col 1.,df['col1'].value_counts(),6
+show me the number of values,df['col1'].value_counts(),6
+Show me what the number of values are.,df['col1'].value_counts(),6
+I would appreciate it if you showed me the number of values in col1,df['col1'].value_counts(),6
+I want to know how many values there are in col1.,df['col1'].value_counts(),6
+Do you know how many values are in col1?,df['col1'].value_counts(),6
+I would love to see the number of values in col1.,df['col1'].value_counts(),6
+I would appreciate seeing the number of values in col1.,df['col1'].value_counts(),6
+Do you have the number of values?,df['col1'].value_counts(),6
+I don't know the number of values in col1.,df['col1'].value_counts(),6
+Please show me the number of values in col1.,df['col1'].value_counts(),6
+I'm looking for the number of values in col 1.,df['col1'].value_counts(),6
+I would appreciate it if you could show me the number of values in col1,df['col1'].value_counts(),6
+Do you have the number of values in col1,df['col1'].value_counts(),6
+I would appreciate if you could tell me the number of values in col1,df['col1'].value_counts(),6
+It's time to show me the number of values in col1.,df['col1'].value_counts(),6
+Please tell me the number of values in col1,df['col1'].value_counts(),6
+Show me the number of the values.,df['col1'].value_counts(),6
+Show me the number of values that are in col1,df['col1'].value_counts(),6
+Have you shown me the number of values?,df['col1'].value_counts(),6
+Come up with the number of values in col1,df['col1'].value_counts(),6
+I'm looking for the number of values in col1,df['col1'].value_counts(),6
+I'd like to know the number of values in col-1.,df['col1'].value_counts(),6
+Show me the numbers in col1,df['col1'].value_counts(),6
+I want the number of values in col1.,df['col1'].value_counts(),6
+I need to know the number of values in col.,df['col1'].value_counts(),6
+Show me how many values are contained in col1.,df['col1'].value_counts(),6
+Send me the number of values in col1.,df['col1'].value_counts(),6
+There is a bar chart of col1 against col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+There is a bar chart of col1 and col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+You can display a bar chart of col1 and col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+You can show a bar chart of col1 against col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+There is a bar chart of col1 against col2,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+You can display a bar chart of col1 against col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+The bar chart should show col1 against col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+There is a bar chart of col1 and col2,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+Look at a bar chart of col1 and col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+A bar chart of col1 and col2,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+There is a bar chart of col 1 and col 2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+Look at a bar chart of col1 against col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+The bar chart has col1 against col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+The bar chart has col1 and col2 in it.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+You can show a bar chart of col1 and col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+Show a bar chart of col1 and col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+There is a bar chart of col 1 against col 2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+A bar chart of col1 and col2 should be displayed.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+You can display a bar chart of col 1 and col 2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+Show a bar chart of col1 against col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+The bar chart has col1 against col2 in it.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+You can show a bar chart of col1 against col2,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+Place a bar chart of col1 against col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+There is a bar chart of col1,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+A bar chart of col1 and col2 is displayed.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+It's a good idea to display a bar chart of col1 and col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+It's a good idea to display a bar chart of col1 against col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+A bar chart of col1 against col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+The bar chart should show col1 against col2,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+You can display a bar chart of col1 against col2,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+Take a look at a bar chart of col1 and col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+There's a bar chart of col1 against col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+There is a bar chart of col1.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+The bar chart is col1 against col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+You can display a bar chart of col1.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+You can put a bar chart of col1 against col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+It is a good idea to display a bar chart of col1 against col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+You can display a bar chart of col1 and col2,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+You can display a bar chart of col1 and col2 at the same time.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+There is a bar chart of col 1 and col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+It is a good idea to display a bar chart of col1 and col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+There is a bar chart of col1 versus col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+There is a bar chart of col2 against col1.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+A bar chart of col1 and col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+The bar chart shows col1 against col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+Let's show a bar chart of col1 against col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+There is a bar chart of col1 against col 2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+The bar chart of col1 and col2 should be displayed.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+You can see a bar chart of col1 against col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+There's a bar chart of col1 and col2.,<|{dataset}|chart|type=bar|x=col1|y=col2|height=100%|>,7
+There is a pie chart of col1 and col2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+There is a pie chart of col1 for col2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+The pie chart has col1 and col2 in it.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+There is a pie chart of col 1 and col 2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+A pie chart of col1 and col2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+There is a pie chart of col1 and col2,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+A pie chart of col1 and col2,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+A pie chart of col1 and col2 should be displayed.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+You can display a pie chart of col1 and col2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+There is a pie chart of col1 for col2,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+There is a pie chart for col1 and col2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+The pie chart has col1 and col2 on it.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+Show a pie chart of col1 and col2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+Pie charts of col1 and col2 are displayed.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+Look at a pie chart of col1 and col2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+There is a pie chart of col 1 for col 2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+Pie charts of col1 and col2 can be displayed.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+It's a good idea to display a pie chart of col1 and col2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+A pie chart of col1 and col2 is displayed.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+It is a good idea to display a pie chart of col1 and col2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+There's a pie chart of col1 and col2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+Pie charts of col1 and col2 should be displayed.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+The pie chart is col1 for col2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+A pie chart of col1 and col2 should be shown.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+You can show a pie chart of col1 and col2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+Take a look at a pie chart of col1 and col2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+There is a pie chart of col1 and col 2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+A pie chart of col1 for col2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+There is a pie chart for col2,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+A pie chart of col 1 and col 2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+There is a pie chart of col1,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+Do you want to show a pie chart of col1 and col2?,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+Do you want to display a pie chart of col1 and col2?,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+You can display a pie chart of col 1 and col 2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+The pie chart has col1 and col2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+A pie chart of col1 for col2 should be displayed.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+A pie chart of col1 and col2 can be displayed.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+A pie chart of col1 and col2 can be seen.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+A pie chart of col1 for col2 is displayed.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+There is a pie chart of col1.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+There is a pie chart for col 1 and col 2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+The pie chart has col1 for col2 in it.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+There's a pie chart of col1 for col2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+It's a good idea to display a pie chart of col 1 and col 2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+You can display a pie chart for col1 and col2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+It is a good idea to display a pie chart of col 1 and col 2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+Place the pie chart of col1 for col2 in front of you.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+Pie Charts of col1 and col2 can be displayed.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+There is a pie chart of col 1 and col2.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+You can put a pie chart of col1 and col2 together.,<|{dataset}|chart|type=pie|values=col2|labels=col1|height=100%|>,8
+There is a line chart of col1 over col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+Line chart of col1 over col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+Line chart of col1 over col2,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+There is a line chart of col1 and col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+There is a line chart of col1 over col2,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+Look at a line chart of col1 over col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+Take a look at a line chart of col1 over col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+There is a chart of col1 over col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+A line chart of col1 over col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+There is a line chart of col 1 over col 2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+A line chart of col1 over col2 is displayed.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+Look at a line chart of col1 and col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+You can display a line chart of col1 and col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+There's a line chart of col1 over col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+You can display a line chart of col1 over col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+There is a line chart of col 1 and col 2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+Line chart of col1 and col2,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+Take a look at a line chart of col1 and col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+There is a line chart of col1 and col2,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+Look at a chart of col1 over col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+A line chart of col1 and col2 should be displayed.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+A line chart of col1 over col2 should be displayed.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+A line chart of col1 and col2 is displayed.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+You can show a line chart of col1 over col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+Line chart of col 1 over col 2,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+There is a line chart of col1 over col 2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+Look at a line chart of col1 over col2,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+Line chart of col1 and col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+Look at the line chart of col1 over col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+Take a look at the line chart of col1 over col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+Take a look at a line chart of col1 over col2,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+You can show a line chart of col1 and col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+There is a line chart of col 1 over col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+A line chart of col1 is displayed.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+A line chart of col1 and col2,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+A line chart of col1 and col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+There is a line chart of col1.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+Show a line chart of col1 and col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+You can see a line chart of col1 over col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+There is a line chart of col1,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+The line chart has col1 over col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+Line chart of col 1 over col 2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+Look at a line chart of col 1 over col 2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+A line chart of col1 and col2 should be shown.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+The line chart is col1 over col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+Refer to a line chart of col1 over col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+Place a line chart of col1 over col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+If you want to see a line chart of col1 over col2,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+Show a line chart of col1 over col2.,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
+There is a chart of col1 over col2,<|{dataset}|chart|mode=lines|x=col1|y=col2|>,9
